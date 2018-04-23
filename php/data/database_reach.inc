@@ -1,0 +1,1 @@
+<?php define("DATABASE_HOST", "localhost"); define("DATABASE_USER", "root"); define("DATABASE_PW", ""); define("DATABASE_NAME", "droot_shop"); define("DATABASE_PORT", "3306"); ?>
